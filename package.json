@@ -1,0 +1,25 @@
+{
+    "name": "maicol07_status",
+    "description": "Maicol07 Status page",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "statusfy dev",
+        "build": "statusfy build",
+        "start": "statusfy start",
+        "generate": "statusfy generate",
+        "new-incident": "statusfy new-incident",
+        "delete-incident": "statusfy delete-incident",
+        "update-incident": "statusfy update-incident",
+        "deploy-dev": "yarn generate && vercel",
+        "deploy-prod": "yarn generate && vercel --prod"
+    },
+    "dependencies": {
+        "statusfy": "^0.5"
+    },
+    "engines": {
+        "node": ">=10",
+        "npm": ">=5"
+    }
+}

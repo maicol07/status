@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "name": "maicol07-statu",
+    "alias": "maicol07-status",
+    "builds": [
+        {
+            "src": "package.json",
+            "use": "@now/static-build"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "title": "Maicol07 Status",
+    "description": "Here you can check the status of our components and servers",
+    "links": {
+        "support": "https://community.maicol07.it",
+        "home": "https://maicol07.it",
+        "privacy": "https://maicol07.it/privacy",
+        "legal": "https://maicol07.it/terms"
+    },
+    "systems": {
+        "items": {
+            "website": {
+                "title": "Maicol07 Website",
+                "description": "Developer personal website"
+            },
+            "mbooks": {
+                "title": "MBooks",
+                "description": "Italian ebooks about developing and programming"
+            },
+            "blog": {
+                "title": "Maicol07 Blog",
+                "description": "Developer personal blog"
+            },
+            "community": {
+                "title": "Maicol07 Community",
+                "description": "Maicol07 Network Community forums"
+            },
+            "account": {
+                "title": "Maicol07 Account",
+                "description": "An all-in-one place to manage your Maicol07 account over all the network"
+            },
+            "scheduled-exams": {
+                "title": "Scheduled Exams"
+            },
+            "translate": {
+                "title": "Maicol07 Translation Platform",
+                "description": "The platform where Maicol07 projects and network components are translated"
+            }
+        }
+    }
+}

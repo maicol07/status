@@ -1,0 +1,41 @@
+{
+    "title": "Maicol07 Status",
+    "description": "Qui puoi controllare lo stato dei componenti del network e dei server",
+    "links": {
+        "support": "https://community.maicol07.it",
+        "home": "https://maicol07.it",
+        "privacy": "https://maicol07.it/privacy",
+        "legal": "https://maicol07.it/terms"
+    },
+    "systems": {
+        "items": {
+            "website": {
+                "title": "Sito web - Maicol07",
+                "description": "Sito web personale dello sviluppatore"
+            },
+            "mbooks": {
+                "title": "MBooks",
+                "description": "Ebook italiani riguardo alla programmazione"
+            },
+            "blog": {
+                "title": "Maicol07 Blog",
+                "description": "Blog personale dello sviluppatore"
+            },
+            "community": {
+                "title": "Maicol07 Community",
+                "description": "Forum della community di Maicol07 Network"
+            },
+            "account": {
+                "title": "Maicol07 Account",
+                "description": "Un unico posto per gestire il tuo account Maicol07 in tutto il network"
+            },
+            "scheduled-exams": {
+                "title": "Interrogazioni Programmate"
+            },
+            "translate": {
+                "title": "Piattaforma di traduzione",
+                "description": "La piattaforma dove i progetti di Maicol07 e i componenti del network vengono tradotti"
+            }
+        }
+    }
+}
