@@ -12,6 +12,7 @@
         "new-incident": "statusfy new-incident",
         "delete-incident": "statusfy delete-incident",
         "update-incident": "statusfy update-incident",
+        "now-build": "yarn generate",
         "deploy-dev": "yarn generate && vercel",
         "deploy-prod": "yarn generate && vercel --prod"
     },
