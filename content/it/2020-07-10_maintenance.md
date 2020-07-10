@@ -13,3 +13,7 @@ Aggiornamenti software. Aspettati momenti in cui il server è offline in
 questo periodo.
 
 <!--- language code: it -->
+::: update La manutenzione continua... | 2020-07-10T17:03:45.752Z  
+La manutenzione continua, si è estesa a causa dei tempi di
+aggiornamento.  
+:::

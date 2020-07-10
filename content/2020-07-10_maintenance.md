@@ -12,3 +12,5 @@ resolved: false
 Software upgrades. Expect downtimes during this period.
 
 <!--- language code: en -->
+::: update Maintenance continues.. | 2020-07-10T17:03:45.752Z  
+Maintenance goes on, update times will go on for a lot... :::
