@@ -22,3 +22,7 @@ aggiornamento.
 ::: update Quasi finito... | 2020-07-11T08:22:45.752Z  
 La manutenzione è quasi conclusa.  
 :::
+
+::: update Recupero dati... | 2020-07-11T15:41:45.752Z  
+Il database della community è corrotto. Stiamo recuperando i dati.  
+:::

@@ -19,3 +19,7 @@ Maintenance goes on, update times will go on for a lot... :::
 ::: update Almost finished... | 2020-07-11T08:22:45.752Z  
 Maintenance is almost finished.  
 :::
+
+::: update Data recovery... | 2020-07-11T15:41:45.752Z  
+Community database is corrupted. We are recovering the data.  
+:::
