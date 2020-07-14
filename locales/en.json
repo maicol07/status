@@ -35,6 +35,10 @@
             "translate": {
                 "title": "Maicol07 Translation Platform",
                 "description": "The platform where Maicol07 projects and network components are translated"
+            },
+            "bugs": {
+                "title": "Maicol07 Bug Tracker",
+                "description": "Where all the bugs and issues reports and feature requests are sent from all the users of Maicol07 projects"
             }
         }
     }

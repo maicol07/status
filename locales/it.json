@@ -35,6 +35,10 @@
             "translate": {
                 "title": "Piattaforma di traduzione",
                 "description": "La piattaforma dove i progetti di Maicol07 e i componenti del network vengono tradotti"
+            },
+            "bugs": {
+                "title": "Piattaforma di segnalazione dei bug",
+                "description": "Dove sono inviate le segnalazioni di tutti i bug e problemi e richieste di nuove funzionalità da parte di tutti gli utenti dei progetti di Maicol07"
             }
         }
     }

@@ -17,7 +17,8 @@ module.exports = {
             'community',
             'account',
             'scheduled-exams',
-            'translate'
+            'translate',
+            'bugs'
         ]
     },
     analytics: {
