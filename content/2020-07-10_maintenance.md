@@ -7,8 +7,8 @@ duration: 20
 affectedsystems:
   - community
   - translate
-resolved: false
-modified: '2020-07-11T08:21:52.890Z'
+resolved: true
+modified: '2020-07-15T08:59:04.607Z'
 ---
 Software upgrades. Expect downtimes during this period.
 
