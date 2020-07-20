@@ -14,7 +14,8 @@ Software upgrades. Expect downtimes during this period.
 
 <!--- language code: en -->
 ::: update Maintenance continues.. | 2020-07-10T17:03:45.752Z  
-Maintenance goes on, update times will go on for a lot... :::
+Maintenance goes on, update times will go on for a lot...  
+:::
 
 ::: update Almost finished... | 2020-07-11T08:22:45.752Z  
 Maintenance is almost finished.  
