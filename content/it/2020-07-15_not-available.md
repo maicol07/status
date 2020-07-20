@@ -3,7 +3,6 @@ title: Offline
 date: '2020-07-15T09:02:50.449Z'  
 severity: major-outage
 affectedsystems:
-  - community
   - translate
 resolved: false
 ---
