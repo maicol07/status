@@ -18,4 +18,8 @@ https://community.maicol07.it/d/17-community-update-2020-07-20).
 La piattaforma di traduzione è ancora offline.  
 :::
 
+::: update Piattaforma di traduzione ripristinata | 2020-07-26T13:00:45.752Z  
+La piattaforma di traduzione è stata ripristinata correttamente.
+:::
+
 <!--- language code: it -->
