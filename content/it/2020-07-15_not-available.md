@@ -1,10 +1,12 @@
 ---
-title: Offline  
-date: '2020-07-15T09:02:50.449Z'  
+title: Offline
+date: '2020-07-15T09:02:50.449Z'
 severity: major-outage
 affectedsystems:
+  - community
   - translate
-resolved: false
+resolved: true
+modified: '2020-07-27T06:27:53.648Z'
 ---
 Il forum della community e la piattaforma di traduzione sono inattive al
 momento. Non siamo stati in grado di ripristinare il database, quindi
