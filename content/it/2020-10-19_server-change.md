@@ -2,7 +2,7 @@
 title: Server change
 date: '2020-10-19T10:21:43.869Z'
 severity: under-maintenance
-scheduled: '2020-10-20T20:30:00.231Z'
+scheduled: '2020-10-20T16:30:00.231Z'
 duration: 90
 affectedsystems:
   - website
